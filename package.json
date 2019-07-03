@@ -1,0 +1,15 @@
+{
+  "name": "contacto",
+  "version": "1.0.0",
+  "description": "A command-line contact management system",
+  "main": "index.js",
+  "author": "Hidayat Abisena",
+  "license": "MIT",
+  "preferGlobal": true,
+    "bin": "./contact.js",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.4.1",
+    "mongoose": "^5.6.2"
+  }
+}
